@@ -10,5 +10,10 @@ public class PrimaryController {
          int a=10;
          if (a>0)
         App.setRoot("secondary");
+         int a =10 ;
+         if ( a > 0 )
+         {
+             
+         }
     }
 }
